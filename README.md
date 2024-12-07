@@ -3,6 +3,8 @@
 
 Projeto com o objetivo de gerar uma planilha financeira inteligente e gerar insigths com IA apartir de uma base de dados.
 
+<a href="https://github.com/SuzaneAlves/prompts-recipe-to-create-a-ebook/blob/main/EBOOK%20-%20PELE%20EM%20EQUILIBRIO.pdf" title="View PDF now"> 📕Clique aqui para ver o arquivo</a>
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [Excel](https://www.microsoft.com/pt-br/microsoft-365/excel)
