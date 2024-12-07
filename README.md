@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="https://github.com/SuzaneAlves/prompts-for-podcast-generate-by-ia/blob/main/Capa-podcast.jpg"
+    src="https://github.com/SuzaneAlves/Projeto_Dashboard/blob/main/Imagem.png"
     width="300"
 />
   
