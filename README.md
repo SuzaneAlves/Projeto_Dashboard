@@ -1,4 +1,9 @@
-
+<p align="center">
+<img 
+    src="https://github.com/SuzaneAlves/prompts-for-podcast-generate-by-ia/blob/main/Capa-podcast.jpg"
+    width="300"
+/>
+  
 # Projeto Dashboard
 
 Projeto com o objetivo de gerar uma planilha financeira inteligente e gerar insigths com IA apartir de uma base de dados.
